@@ -1,5 +1,10 @@
 name: "Name hello"
 description: "Bonjour!"
+inputs:
+  name:
+    description: "un nom"
+    resuired: true
+    default: "Groot"
 runs:
   using: 'node16'
   main: 'index.js'
