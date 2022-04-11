@@ -1,0 +1,22 @@
+{
+  "name": "actions-hello-cpi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sylvainVasseur/actions-hello-cpi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sylvainVasseur/actions-hello-cpi/issues"
+  },
+  "homepage": "https://github.com/sylvainVasseur/actions-hello-cpi#readme",
+  "dependencies": {
+    "@actions/github": "^5.0.1"
+  }
+}

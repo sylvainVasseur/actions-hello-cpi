@@ -1,0 +1,10 @@
+name: "Name hello"
+description: "Bonjour!"
+inputs:
+  name:
+    description: "Doit donner le name"
+    required: true
+    default: "Groot"
+  runs:
+    using: 'node16'
+    main: 'index.js'
